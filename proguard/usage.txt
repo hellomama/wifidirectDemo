@@ -1,0 +1,34 @@
+com.lvzi.wifidirect.BuildConfig
+com.lvzi.wifidirect.DeviceDetailFragment:
+    public static final java.lang.String IP_SERVER
+    protected static final int CHOOSE_FILE_RESULT_CODE
+com.lvzi.wifidirect.DeviceListFragment:
+    67:67:public android.net.wifi.p2p.WifiP2pDevice getDevice()
+com.lvzi.wifidirect.DeviceListFragment$DeviceActionListener:
+    public abstract void cancelDisconnect()
+com.lvzi.wifidirect.FileTransferService:
+    private static final int SOCKET_TIMEOUT
+    public static final java.lang.String ACTION_SEND_FILE
+    public static final java.lang.String EXTRAS_FILE_PATH
+    public static final java.lang.String EXTRAS_ADDRESS
+    public static final java.lang.String EXTRAS_PORT
+com.lvzi.wifidirect.R
+com.lvzi.wifidirect.R$attr
+com.lvzi.wifidirect.R$color
+com.lvzi.wifidirect.R$dimen
+com.lvzi.wifidirect.R$drawable
+com.lvzi.wifidirect.R$id
+com.lvzi.wifidirect.R$layout
+com.lvzi.wifidirect.R$menu
+com.lvzi.wifidirect.R$string
+com.lvzi.wifidirect.Utils:
+    private static final java.lang.String p2pInt
+    private static final int PORT
+    static java.lang.String client_IP
+    private static android.os.Handler myhandler
+    20:20:public Utils()
+    35:51:public static java.lang.String getLocalIPAddress()
+com.lvzi.wifidirect.WiFiDirectActivity:
+    public static final java.lang.String TAG
+    245:272:public void cancelDisconnect()
+com.lvzi.wifidirect.WiFiDirectActivity$4
